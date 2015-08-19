@@ -1,2 +1,2 @@
 # learn_ruby
-in this project i learn tdd with ruby
+In this project I learn TDD with ruby
